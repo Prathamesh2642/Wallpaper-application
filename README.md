@@ -5,6 +5,7 @@ The wallpapers are downloaded in the specified folder and are further segregated
 This application presently forms the 10 folders of 18 wallpapers each and downloads all the latest most popular wallpapers on the site
 
 Major features that will be added in the future versions are:-
+
               *Selecting number of pages to be downloaded.
               *Categories from which you want wallpapers
               *Searching wallpapers according to words
