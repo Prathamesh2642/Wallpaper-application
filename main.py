@@ -7,7 +7,7 @@ altlist=[]
 
 
 for run in range(1,2):
-    response=requests.get(f"https://hdqwalls.com/celebrities-wallpapers/page/{run}")
+    response=requests.get(f"https://hdqwalls.com/movies-wallpapers/page/{run}")
     # print(response.content)
     soup = BeautifulSoup(response.text, "html.parser")
     div = soup.find_all("img")
